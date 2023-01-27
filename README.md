@@ -15,11 +15,7 @@
 |Python|Windows|windows-python|Python3.6.0-amd64|exe安装包|
 |Python|macOS|macos-python|Python3.11.0-Universal2-64bit|pkg安装包|
 |Python|macOS|macos-python|Python3.9.0-64bit|pkg安装包|
-|Python|macOS|macos-python|Python3.11.0-64bit&32bit|pkg安装包|
-
-## 注意
-- Linux下一般自带有C/C++,Python等环境
-- M系列芯片的Mac下载Universal2版最优,Intel芯片任选
+|Python|macOS|macos-python|Python3.6.0-64bit&32bit|pkg安装包|
 
 ## 许可
 仓库发布遵守 GNU General Public License v3.0 
